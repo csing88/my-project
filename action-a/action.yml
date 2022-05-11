@@ -1,4 +1,6 @@
 name: "Hello Action"
+description: "Greet someone"
 inputs:
-  MY_NAME:
-    default: "Hello World"
+    description: "Who to greet"
+    required: true
+    default: "World"
