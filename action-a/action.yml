@@ -1,0 +1,4 @@
+name: "Hello Action"
+inputs:
+  MY_NAME:
+    default: "Hello World"
